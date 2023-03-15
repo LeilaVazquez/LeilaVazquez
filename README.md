@@ -1,12 +1,10 @@
- 👋 Hi there !
- It's me Leila :)
+👋 Hello everyone! I'm Leila :)
 
-In this profile you'll find my study projects.
-I'm currently working with C++, C#, HTML, CSS and JS.
+In this profile you'll find my student projects. I'm currently working with C++, C#, HTML, CSS and JS.
 
 You can contact me via email: leilavazquez7021@gmail.com
 
-Bye ! 👋
+Bye bye! 👋
 
 <!---
 LeilaVazquez/LeilaVazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
