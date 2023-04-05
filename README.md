@@ -4,11 +4,25 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg46e5k1004408l9mk7qie53/stats?cursusId=21&coalitionId=206" alt="leilavaz's 42 stats" /></a>
 
+In this profile you'll find my student projects.
 
-In this profile you'll find my student projects. I'm currently working with C++, C#, HTML, CSS and JS.
+I'm currently working with
+
+<p align="left>
+          <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css3" width="60" height="60"/> </a> 
+          <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="60" height="60"/> </a>
+          <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353528/c.svg" alt="c" width="58" height="58"/></a>
+          <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="c++" width="58" height="58"/> </a>
+          <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353668/dotnet.svg" alt=".net" width="58" height="58"/> </a>
+</p>
 
 <br>
 Where to find me 🔎
+<br>                                                                                                                                
+<br>
+<a href="https://linkedin.com/leila-vazquez" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="leila vazquez" height="30" width="40" />Linkedin</a>
+
+<a href="mailto:leilavazquez7021@gmail.com " target="blank"><img align="center" src="https://www.svgrepo.com/show/243092/gmail.svg" alt="leila vazquez" height="30" width="40" />leilavazquez7021@gmail.com</a>
 
 <!---
 LeilaVazquez/LeilaVazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
