@@ -1,4 +1,4 @@
-<h2>👋 Hi there! Welcom to my profile 😊</h2>
+<h2>👋 Hi there! Welcome to my profile 😊</h2>
 
 <h3>I'm a student at 42 Barcelona</h3>
 
