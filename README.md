@@ -20,7 +20,7 @@ I'm currently working with
 Where to find me 🔎
 <br>                                                                                                                                
 <br>
-<a href="https://linkedin.com/leila-vazquez" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="leila vazquez" height="30" width="40" />Linkedin</a>
+<a href="https://www.linkedin.com/in/leila-vazquez/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="leila vazquez" height="30" width="40" />Linkedin</a>
 
 <a href="mailto:leilavazquez7021@gmail.com " target="blank"><img align="center" src="https://www.svgrepo.com/show/243092/gmail.svg" alt="leila vazquez" height="30" width="40" />leilavazquez7021@gmail.com</a>
 
