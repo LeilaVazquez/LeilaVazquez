@@ -4,7 +4,7 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg46e5k1004408l9mk7qie53/stats?cursusId=21&coalitionId=206" alt="leilavaz's 42 stats" /></a>
 
-In this profile you'll find my student projects.
+You can find my student projects in this profile.
 
 I'm currently working with
 
