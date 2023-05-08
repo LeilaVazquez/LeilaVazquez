@@ -20,9 +20,9 @@ I'm currently working with
 Where to find me 🔎
 <br>                                                                                                                                
 <br>
-<a href="https://www.linkedin.com/in/leila-vazquez/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="leila vazquez" height="30" width="40" />Linkedin</a>
+<a href="https://www.linkedin.com/in/leila-vazquez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leila vazquez"/>Linkedin</a>
 
-<a href="mailto:leilavazquez7021@gmail.com " target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leila vazquez" height="30" width="40" />leilavazquez7021@gmail.com</a>
+<a href="mailto:leilavazquez7021@gmail.com " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="leila vazquez" />leilavazquez7021@gmail.com</a>
 
 <!---
 LeilaVazquez/LeilaVazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
