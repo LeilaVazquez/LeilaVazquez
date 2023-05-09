@@ -6,6 +6,13 @@
 
 <h4>You can find my student projects in this profile</h4>
 <hr></hr>
+
+<h3>My Cv</h3>
+<p>
+<a href="https://drive.google.com/file/d/1FkizlWOgGjrHAiSyUZVT-30L_78KWN-J/view?usp=sharing"><img src="https://img.icons8.com/?size=512&id=pdBSiDfIl6Vo&format=png" alt="css3" width="60" height="60"/></a>
+</p>
+
+<hr></hr>
 <h3>My Tech Stack</h3>
 
 <p align="left">
