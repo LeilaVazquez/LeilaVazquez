@@ -9,7 +9,7 @@
 
 <h3>My Cv</h3>
 <p>
-<a href="https://drive.google.com/file/d/1n7_H5Ib0Fhvm8-R_ADeHroyacLtacTRq/view?usp=drive_link"><img src="https://img.icons8.com/?size=512&id=pdBSiDfIl6Vo&format=png" alt="css3" width="60" height="60"/></a>
+<a href="https://drive.google.com/file/d/1l7XgW3QO8KzGjyNckaOwgiadmz8-OcNx/view?usp=sharing"><img src="https://img.icons8.com/?size=512&id=pdBSiDfIl6Vo&format=png" alt="css3" width="60" height="60"/></a>
 </p>
 
 <hr></hr>
