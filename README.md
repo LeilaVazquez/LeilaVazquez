@@ -2,8 +2,7 @@
 
 <h3>I'm a Software Developer student at 42 Barcelona</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/<leilavaz>" alt="leilavaz's 42 stats" /></a>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/leilavaz?1337Badge=off&UM6P=off" alt="leilavaz's 42 stats" /></a>
 <h4>You can find my student projects in this profile</h4>
 <hr></hr>
 
